@@ -1,4 +1,10 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: heding-test
+  type: text
+  config:
+    required: false
+  label: Heding-test
+  description: test-text-field
